@@ -1,0 +1,7 @@
+[extension]
+id = "dockerfile_helper"
+name = "Dockerfile Helper"
+version = "0.1.0"
+description = "Dockerfile Helper extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
